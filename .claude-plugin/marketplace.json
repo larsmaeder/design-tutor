@@ -1,0 +1,14 @@
+{
+  "name": "design-tutor",
+  "owner": {
+    "name": "Lars Mäder"
+  },
+  "description": "Learning tools for UX/UI design students working with web technology.",
+  "plugins": [
+    {
+      "name": "design-tutor",
+      "source": "./",
+      "description": "A tutor for UX/UI design students learning web technology. Claude makes every code change and explains it in design terms."
+    }
+  ]
+}

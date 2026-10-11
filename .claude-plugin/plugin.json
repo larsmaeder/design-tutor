@@ -1,0 +1,9 @@
+{
+  "name": "design-tutor",
+  "version": "0.1.0",
+  "description": "A tutor for UX/UI design students learning web technology. Claude makes every code change and explains it in design terms, adapted to the student's level and learning memory. Off by default; switch it on with /design-tutor:tutor.",
+  "author": {
+    "name": "Lars Mäder"
+  },
+  "keywords": ["education", "design", "ux", "tutor", "learning"]
+}
